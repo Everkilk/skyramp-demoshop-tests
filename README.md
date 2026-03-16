@@ -1,3 +1,15 @@
+## OrderShop E-Commerce Platform – Software Testing Report Summary
+
+**Description:** Conducted comprehensive testing for an e-commerce order management platform, focusing on manual, black-box, and automated API testing using Postman/Newman.
+
+**Technologies:** Postman, Newman, Manual Testing, Equivalence Partitioning, Boundary Value Analysis, Positive/Negative Testing, Excel (Test Case Management)
+
+**Responsibility:**
+- Performed manual and black-box testing across 4 UI modules (Product Management, Search/Filter/Sort, Navigation, and Data Validation) to identify defects and ensure software quality.
+- Developed and executed automated API test cases using Postman and Newman CLI, covering Products, Reviews, Orders, and Authentication endpoints with positive, negative, boundary, and security test scenarios.
+
+---
+
 ## Tổng hợp các Scenario đã test thủ công
 
 - Các testcase sẽ được liệt kê trong file **OrderShop_TestCase.xlsx**
